@@ -40,7 +40,7 @@ Progress, settings, and your license are stored in:
 Remove that folder to reset everything.
 
 ## Contact Us
-For support, refunds, or any questions, email me at: your-email@example.com
+For support, refunds, or any questions, email me at: sunonl29@gmail.com
 
 ## Terms and Conditions
 This software is provided as-is. You are granted a lifetime license for personal use. Redistribution or resale is not permitted.
