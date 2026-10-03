@@ -8,7 +8,7 @@ categories: [rhcsa, linux, certification, devops]
 tags: [RHCSA, EX200, RHEL9, RHEL10, Linux Certification, WSL2, Docker, Podman, Rocky Linux]
 keywords: "how to practice RHCSA without VM, RHCSA lab setup, RHCSA EX200 practice, VirtualBox alternative RHCSA, WSL2 RHCSA, Docker Rocky Linux, RHCSA browser labs"
 image: /assets/images/rhcsa-without-vm-cover.png
-canonical_url: https://yourusername.github.io/blog/how-to-practice-rhcsa-without-a-vm/
+canonical_url: https://sunonl29.github.io/blog/how-to-practice-rhcsa-without-a-vm/
 ---
 
 # How to Practice RHCSA Without a VM (2026 Guide)
